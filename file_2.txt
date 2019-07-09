@@ -1,2 +1,3 @@
+Insert line of text
 Ooh la la
 Changing this file for tests
